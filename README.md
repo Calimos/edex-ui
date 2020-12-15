@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/GitSquared/edex-ui)
+
 <p align="center">
   <br>
   <img alt="Logo" src="https://github.com/GitSquared/edex-ui/raw/master/media/logo.png">
